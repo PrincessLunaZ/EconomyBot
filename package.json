@@ -1,0 +1,30 @@
+{
+  "name": "EconomyBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nosnowowie93347/EconomyBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nosnowowie93347/EconomyBot/issues"
+  },
+  "homepage": "https://github.com/nosnowowie93347/EconomyBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.11.18",
+    "ms": "^2.1.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "prettier": "^2.2.1"
+  }
+}
