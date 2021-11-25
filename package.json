@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nosnowowie93347/EconomyBot.git"
+    "url": "git+https://github.com/PrincessLunaZ/EconomyBot.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nosnowowie93347/EconomyBot/issues"
+    "url": "https://github.com/PrincessLunaZ/EconomyBot/issues"
   },
-  "homepage": "https://github.com/nosnowowie93347/EconomyBot#readme",
+  "homepage": "https://github.com/PrincessLunaZ/EconomyBot#readme",
   "dependencies": {
     "discord.js": "^12.5.1",
     "fs": "0.0.1-security",
